@@ -1,1 +1,4 @@
-print("test 123")
+def HelloWord(message):
+    return message
+
+print(HelloWord("print"))
